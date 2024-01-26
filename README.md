@@ -2,7 +2,7 @@
   <img width="400" src = "https://drive.google.com/file/d/19cAG9XN1N84I6tY0I7OEfLCCQ006In2f/view?usp=drive_link" alt="coding">
 </div>
 
-<h1 align="center">Hi 👋, I'm harsh patare</h1>
+<h1 align="center">Hi 👋, I'm Harsh patare</h1>
 
 <h3 align="center">A passionate Full stack web developer from India.</h3>
 
