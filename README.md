@@ -11,7 +11,7 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **PESMCOE studying Information  Technology** and  intern @Cybernetics Software private Ltd
+- 👩‍🎓 I'm a sophomore at **PESMCOE studying Information  Technology** and  intern **@Cybernetics Software private Ltd**
 
 - 🔭 I’m looking to contribute to **Open Source**
 
