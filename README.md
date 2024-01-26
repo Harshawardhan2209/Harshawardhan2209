@@ -15,6 +15,8 @@
 
 - 🔭 I’m looking to contribute to **Open Source**
 
+- I’m currently intern @Cybernetics Software private Ltd**
+
 - 🌱 I’m currently exploring **Machine learning**
 
 - 👨‍💻 Know me more  <a href="https://harsh-patare-portfolio.netlify.app" style="text-decoration: none;">Portfolio</a>
