@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src = "https://drive.google.com/file/d/19cAG9XN1N84I6tY0I7OEfLCCQ006In2f/view?usp=drive_link" alt="coding">
+<!--   <img width="400" src = "https://drive.google.com/file/d/19cAG9XN1N84I6tY0I7OEfLCCQ006In2f/view?usp=drive_link" alt="coding"> -->
 </div>
 
 <h1 align="center">Hi 👋, I'm Harsh patare</h1>
