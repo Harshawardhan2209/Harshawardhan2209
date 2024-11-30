@@ -15,7 +15,7 @@
 
 - 🔭 I’m looking to contribute to **Open Source**
 
-- 🌱 I’m currently exploring **wordpress developement**
+- 🌱 I’m currently exploring **Computer Vison and Deep Learning**
 
 - 👨‍💻 Know me more  <a href="https://harsh-patare-portfolio.netlify.app" style="text-decoration: none;">Portfolio</a>
 
