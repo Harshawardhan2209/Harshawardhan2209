@@ -12,7 +12,7 @@
 ### 🙋‍♂️ About Me
 - 💼 Currently studying Bachelor of Engineering (IT) at Savitribai Phule Pune University, graduating in 2025.
 
--  🌱 Previously interned as a Software Enginnering Intern at **Cybernetics**.
+-  🌱 Previously worked as a Software Enginnering Intern at **Cybernetics**.
 
 - 🌱 🔭 I’m **Open Source Enthusiast** & currently exploring **OpenCV and Tensorflow**
 
