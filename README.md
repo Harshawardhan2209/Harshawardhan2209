@@ -1,21 +1,20 @@
 <div align="center" >
-<!--   <img width="400" src = "https://drive.google.com/file/d/19cAG9XN1N84I6tY0I7OEfLCCQ006In2f/view?usp=drive_link" alt="coding"> -->
 </div>
 
 <h1 align="center">Hi 👋, I'm Harsh patare</h1>
 
-<h3 align="center">A passionate Full stack web developer from India.</h3>
+<h3 align="center">A passionate Full-stack developer from India.</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
 ### 🙋‍♂️ About Me
-- 👩‍🎓 I'm a sophomore at **PESMCOE studying Information  Technology** and  ex intern **@Cybernetics Software private Ltd**
+- 💼 Currently studying Bachelor of Engineering (IT) at Savitribai Phule Pune University, graduating in 2025.
 
-- 🔭 I’m looking to contribute to **Open Source**
+-  🌱 Previously interned as a Software Enginnering Intern at **Cybernetics**.
 
-- 🌱 I’m currently exploring **Computer Vison and Deep Learning**
+- 🌱 🔭 I’m **Open Source Enthusiast** & currently exploring **OpenCV and Tensorflow**
 
 - 👨‍💻 Know me more  <a href="https://harsh-patare-portfolio.netlify.app" style="text-decoration: none;">Portfolio</a>
 
