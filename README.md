@@ -1,16 +1,16 @@
 <div align="center" >
 </div>
 
-<h1 align="center">Hi 👋, I'm Harsh patare , Loves Linux btw</h1>
+<h1 align="center">Hi 👋, I'm Harsh patare </h1>
  
-<h3 align="center">A passionate Full-stack developer from India.</h3>
+<h3 align="center"> Full-stack developer from India.</h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
 ### 🙋‍♂️ About Me
-- 💼 Currently studying Bachelor of Engineering (IT) at Savitribai Phule Pune University, graduating in 2025.
+- 💼 Final Year Undergrad .
 
 -  🌱 Previously worked as a Software Enginnering Intern at **Cybernetics**.
 
